@@ -40,5 +40,9 @@ Installers:
   Architecture: x64
   InstallerUrl: https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2100720099/AcroRdrDCx642100720099_ja_JP.exe
   InstallerSha256: A123BD43AAF3FCF6FAE34C5D1CE77E01DC40EC621C82D9E63BCF9625A639812C
+- InstallerLocale: nl-NL
+  Architecture: x64
+  InstallerUrl: https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2100720099/AcroRdrDCx642100720099_nl_NL.exe
+  InstallerSha256: A94DA8B22A03246FD2E7A2CC5A37A0A70B8786AA09AD77DBB1CAAEE0A6AA001E  
 ManifestType: installer
 ManifestVersion: 1.0.0
